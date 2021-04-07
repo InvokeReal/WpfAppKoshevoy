@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="New text" Height="200" Width="300"/>
+        <Label Content="wsd" Width="300" Height="200"/>
     </Grid>
 </Window>
